@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Gholmish</h1>
 <h3 align="center">A passionate Software Test Engineer from ِEgypt</h3>
 
-- 🔭 I’m currently working on **Ecommerce**
-
-- 🌱 I’m currently learning **Redux,node js**
-
 - 📫 How to reach me **mogholmish@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
