@@ -3,7 +3,7 @@
 
 -------------------
 &emsp;
-<h3 align="left">Hi 👋, I'm Mohamed Gamal Gholmish, a Software Test Engineer with experience in ensuring the quality and reliability of software systems.</h3>
+<h3 align="left">Hi 👋, I'm Mohamed Gamal, a Software Test Engineer.</h3>
 &emsp;
 
 -------------------
