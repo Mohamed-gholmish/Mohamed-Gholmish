@@ -3,7 +3,7 @@
 
 -------------------
 &emsp;
-<h3 align="center">Hi 👋 Software Test Automation Engineer.</h3>
+<h3 align="center">👋 Software Test Automation Engineer.</h3>
 &emsp;
 
 -------------------
