@@ -9,7 +9,7 @@
 -------------------
 &emsp;
 
-- 🔭 I’m currently working on ensuring software quality at MCS OIL, focusing on testing and verifying complex integrated systems in oil fields.
+- 🔭 I’m currently working on ensuring software quality
 - 📚 I'm also dedicated to continuous learning, currently enhancing my skills in test automation and API testing.
 
 - 💬 Ask me about **Test Case Development, Bug Reporting, Test Automation, API Testing**
@@ -55,6 +55,7 @@
 
 ### Tools:
 &emsp;
+Selenium
 ![Postman](https://img.shields.io/badge/-Postman-blue)
 ![Jira](https://img.shields.io/badge/-Jira-blue)
 ![Git](https://img.shields.io/badge/-Git-blue)
@@ -68,10 +69,6 @@
 
 <img alt="Mohamed Gamal Gholmish's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=berkeli&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="Mohamed Gamal Gholmish's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkeli&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 
-
-### 🔥 Streak Stats
-
-![Mohamed Gamal Gholmish's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=berkeli&theme=tokyonight)
 
 ### 📊 Contribution Stats
 
